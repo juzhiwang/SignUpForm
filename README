@@ -1,0 +1,9 @@
+# SignUpForm App
+
+This Android app allows users to sign up by entering their name, email, password, and choosing their program from a Spinner. 
+ Upon successful signup, a welcome message is displayed to the user.
+ 
+ 
+ 
+
+
